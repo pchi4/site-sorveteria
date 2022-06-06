@@ -11,5 +11,8 @@
 
 ![Screenshot from 2022-06-06 15-42-28](https://user-images.githubusercontent.com/84159325/172227393-8f707f86-96ec-47c0-b733-d4f0e5fd3972.png)
 
-
+## Project created with:
+- [x] HTML-5,
+- [x] CSS,
+- [x] BOOTSTRAP 
 
